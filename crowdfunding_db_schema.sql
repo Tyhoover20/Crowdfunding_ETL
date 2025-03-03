@@ -1,3 +1,5 @@
+BEGIN;
+
 CREATE TABLE IF NOT EXISTS public.campaign
 (
     cf_id integer NOT NULL,
